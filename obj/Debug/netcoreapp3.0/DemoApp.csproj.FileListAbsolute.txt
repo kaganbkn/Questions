@@ -1,0 +1,11 @@
+C:\Workspace\C#\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.exe
+C:\Workspace\C#\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.deps.json
+C:\Workspace\C#\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.runtimeconfig.json
+C:\Workspace\C#\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.runtimeconfig.dev.json
+C:\Workspace\C#\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.dll
+C:\Workspace\C#\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.pdb
+C:\Workspace\C#\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.csprojAssemblyReference.cache
+C:\Workspace\C#\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.AssemblyInfoInputs.cache
+C:\Workspace\C#\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.AssemblyInfo.cs
+C:\Workspace\C#\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.dll
+C:\Workspace\C#\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.pdb
